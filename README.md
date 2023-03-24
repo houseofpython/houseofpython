@@ -1,6 +1,6 @@
 <img src="tony-stark-coding-tony-stark.gif"></img>
 
-# 🧘🏾‍♂Diontre Sanders🧘🏾‍♂ 
+# 🧘🏾‍♂Diontre Sanders
 
 **`San Antonio, TX`**
 
