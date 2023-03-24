@@ -4,7 +4,7 @@
 
 **`San Antonio, TX`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Full stack python developer with a strong background in IT support that has a passion to engineer and create through code to help support end users. I love bringing simple solutions to complex problems. With a wide demographic background that loves to connect to consumers to create and solve problems through Tech. Lastly, a veteran of the US army with a diverse background in the private and government sector.
 
 
 ---
