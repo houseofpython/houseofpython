@@ -42,7 +42,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Diontre Sanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=houseofpython&show_icons=true&theme=gruvbox)
+![Diontre Sanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=houseofpython&show_icons=true&theme=highcontrast)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=houseofpython&theme=gruvbox&border_radius=4.5) -->
 
