@@ -1,3 +1,5 @@
+<img src="welcomepdx.png"></img>
+
 # 🏄‍♂️ Diontre Sanders
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
