@@ -41,7 +41,8 @@ Full stack python developer with a strong background in IT support that has a pa
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknig
 
-Here are some ideas to get you started:
+ 
+# Random Info About Me
 
 - 🔭 I’m currently working on ... mastering python data structures & algorithms
 - 🌱 I’m currently learning ... python
