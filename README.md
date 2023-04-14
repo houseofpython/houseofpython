@@ -36,7 +36,7 @@ Full stack python developer with a strong background in IT support that has a pa
 
 <details>
  <summary><h3>👨‍💻 Diontre's Coding Journey</h3></summary>
-   I started my coding journey in 2022 after working at a large insurance company as a security engineer and wanting to find a new passion. Some may ask as a security engineer why would you want to switch over and completely start over in coding. I personally love challenges and love to learn and I believe coding would connect that for me. Growing up in Savannah, Ga my entire life I didn't find until I was older, had gone through the army, worked a few jobs, met all types of people, that the world had so many prespectives. 
+   I started my coding journey in 2022 after working at a large insurance company as a security engineer and wanting to find a new passion. Some may ask as a security engineer why would you want to switch over and completely start over in coding. I personally love challenges and love to learn and I believe coding would connect that for me. Growing up in Savannah, Ga my entire life I didn't find until I was older, had gone through the army, worked a few jobs, met all types of people, that the world had so many prespectives. That's what I love about coding. There are so many ways to see a problem and soooo many ways to find a solution. 
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknig
